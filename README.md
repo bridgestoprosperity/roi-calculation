@@ -1,2 +1,2 @@
-# roi-calculation
-Calculating the ROI of trailbridges in Uganda and Rwanda
+# Return on Investment Calculation
+This notebook calculates a return on investment of trail bridges in Rwanda and Uganda. In this calculation two key variables are, the number of households within a two mile radius and the average distance of these households. This notebook contains a jupyter notebook calculating the population within two miles of bridge sites along with a compiled csv file with the geocoordinates of the bridges and population data.
